@@ -80,10 +80,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
-
-For questions or feedback, open an issue on GitHub or email `your.email@example.com`.
-
 ---
 
 Enjoy messaging with minitalk! 🚀
